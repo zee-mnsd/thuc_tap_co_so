@@ -7,10 +7,10 @@ anything is possible if I try hard enough.
 
 
 ###### Note
-1. To conside file cpp
-    Step 1: g++ -o nameprogram file.cpp
-    Strp 2: ./nameprogram
-2. Git up to Github
-    Step 1: git add "file"
-    Step 2: git commit -m "comment"
-    Step 3: git push -u origin main
+1. To conside file cpp <br>
+    Step 1: g++ -o nameprogram file1.cpp file2.cpp <br>
+    Strp 2: ./nameprogram <br>
+2. Git up to Github <br>
+    Step 1: git add "file" <br>
+    Step 2: git commit -m "comment" <br>
+    Step 3: git push -u origin main <br>
