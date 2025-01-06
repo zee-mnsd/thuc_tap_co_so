@@ -14,3 +14,8 @@ anything is possible if I try hard enough.
     Step 1: git add "file" <br>
     Step 2: git commit -m "comment" <br>
     Step 3: git push -u origin main <br>
+
+###### .h 
+#ifndef _H_INCLUDED
+#define _H_INCLUDED
+#endif // _H_INCLUDED
